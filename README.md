@@ -7,7 +7,7 @@ A clipboard manager inspired by call-center related work.
 - Remembers last location and size.
 - Customize font-size and text box height.
 
-# How to Use the the current build
+# How to Use the current build
 Node-webkit is bundled with the application for development purposes. Read more about this here: https://github.com/nwjs/nw.js/
 
 ##Windows:
